@@ -1,4 +1,8 @@
-# Flexi Rex with stronger links
+# Chompy-Pride ( from: Flexi Rex with stronger links )
+
+### Notice
+I am working on locating and integrating my additions to this Chompy ( flexi rex ) project repository. My most up to date files are currently outside of git based version control and moving things over cleanly will take me some time. Happy Pride!
+
 *3D printable print-in-place flexible T-rex, with strong links to be more kid-proof (formerly thing:2738211)*
 
 ### License
